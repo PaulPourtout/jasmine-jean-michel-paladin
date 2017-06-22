@@ -1,0 +1,14 @@
+{
+  "name": "js-jasmine-jean-michel-paladin",
+  "version": "1.0.0",
+  "description": "Atelier TDD avec Node.js + Jasmine",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "test": "jasmine"
+  },
+  "author": "Sandro Micalizzi <hello@sandromicalizzi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
